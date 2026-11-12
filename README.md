@@ -657,7 +657,7 @@ Use SerpApi APIs without writing code:
 - Track the price, discount, coupons, and stock of your products and competing products.
 - Monitor ratings, review summaries, and Best Sellers Rank over time.
 - Compare the offers of other sellers on the same product.
-- Build product catalogs with images, variants, descriptions, and specifications.
+- Check that the Amazon pages of your products show the right title, images, About this item bullets, and specifications.
 - Map each variant of a product, such as a size or flavor, to its ASIN.
 - Give AI agents and RAG pipelines detailed product information.
 
